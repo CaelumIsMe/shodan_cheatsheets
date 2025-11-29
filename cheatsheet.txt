@@ -1,0 +1,17 @@
+##A cheatsheet from InfoSec Pat
+ -google.com
+ -8.8.8.8
+ -title:camera
+ -webcam has_screenshot:true
+ -device:"voip" 
+ -product:MySQL 
+ -http.title:"Index of /"
+ -"default password"
+ -"Laser Printer FTP Server"
+ -hacked
+
+##A cheatsheet from https://github.com/cybersnippets/
+ -anonymous@ login ok. port:"21"
+ -"220" "230 Login successful." port:21
+ -port:"445" Authentication: "disabled"
+ -"Authentication: disabled" NETLOGON SYSVOL -unix port:445
